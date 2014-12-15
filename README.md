@@ -3,10 +3,11 @@ Open Data in Korea
 
 A collaborative, curated list of Open Data sources in South Korea.
 
+Please add more and submit a PRs!
 
 
 
-## Seoul Government official OpenData site
+## Seoul Government official OpenData site 
 http://data.seoul.go.kr - Seoul metropolitan government initiative in OpenData
 
 **What type of data**: TBD
@@ -20,4 +21,7 @@ http://data.seoul.go.kr - Seoul metropolitan government initiative in OpenData
 **License**: TBD
 
 
-## 
+## Another source
+**What type of data**: TBD
+**How to get it**: TBD
+**License**: TBD
