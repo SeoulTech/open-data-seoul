@@ -20,6 +20,20 @@ http://data.seoul.go.kr - Seoul metropolitan government initiative in OpenData
 
 **License**: TBD
 
+## Korean Government official OpenData portal
+https://www.data.go.kr - Korea OpenData Portal
+
+**What type of data**:
+ - CSV
+ - JSON
+ - XLSX
+ - ...
+ TBD
+
+**How to get it**: 
+ TBD
+
+**License**: TBD
 
 ## Another source
 **What type of data**: TBD
